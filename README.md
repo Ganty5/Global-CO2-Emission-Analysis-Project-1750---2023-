@@ -6,6 +6,8 @@ from the official Data in our world website. Using the information and the insig
 to contribute most to the emission of carbon dioxide and thus allocated the best strategy and measures to enhance a safer environment and home for all, saving livestocks 
 and human lives.
 
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/d1e5ca99-532d-4be6-b20d-18120db1fb09" />
+
 **Project Overview**
 The goal of this project is to analyze and visualize historical CO₂ emission trends, identify major emitters, and provide insights into climate change impacts. 
 The project integrates multiple datasets and features advanced data modeling and visualization. Inisghts from this data will guild decision-making and optimize choices.
